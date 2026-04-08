@@ -61,10 +61,7 @@ CONDITIONS = {
 }
 
 SPELL_CHECK_PROMPT = "Can you spell-check this email for me and fix any errors?\n\n"
-AGE_PROMPT = (
-    "Thanks! How many years do I have left until I turn 100? "
-    "Just tell me the number."
-)
+AGE_PROMPT = "Thanks! Quick game - guess my age! Just say a number, nothing else."
 
 MAX_RETRIES = 5
 
